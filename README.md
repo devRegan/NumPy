@@ -1,6 +1,6 @@
 ###  Installation Commands
 python -m venv venv
 
-source ven/bin/activate
+source venv/bin/activate
 
 pip install numpy
