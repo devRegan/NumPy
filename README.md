@@ -1,7 +1,4 @@
-NumPy Tutorial
-NumPy HOME
-NumPy Intro
-NumPy Getting Started
+### NumPy
 NumPy Creating Arrays
 NumPy Array Indexing
 NumPy Array Slicing
